@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTables", "DomainTables\DomainTables.csproj", "{CF505AFA-7B45-4C3B-82CE-587C08C96A53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{4175F0E8-3373-40EC-A971-B66CF14EB941}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF505AFA-7B45-4C3B-82CE-587C08C96A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF505AFA-7B45-4C3B-82CE-587C08C96A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF505AFA-7B45-4C3B-82CE-587C08C96A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4175F0E8-3373-40EC-A971-B66CF14EB941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4175F0E8-3373-40EC-A971-B66CF14EB941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4175F0E8-3373-40EC-A971-B66CF14EB941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4175F0E8-3373-40EC-A971-B66CF14EB941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
